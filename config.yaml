@@ -63,5 +63,5 @@ menu:
   main:
     - identifier: portfolio
       name: Portfolio
-      url: /
+      url: ../
       weight: 10
