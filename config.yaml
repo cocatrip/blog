@@ -1,6 +1,6 @@
 baseURL: 'https://cocatrip.github.io/'
 languageCode: 'en-us'
-title: 'Portfolio'
+title: 'Blog'
 theme: 'PaperMod'
 
 minify:
@@ -34,9 +34,9 @@ params:
     Content: Welcome to my blog
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   socialIcons: # optional
   - name: "github"
