@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>monthly-report on Blog</title>
-    <link>https://cocatrip.github.io/tags/monthly-report/</link>
+    <link>https://cocatrip.github.io/blog/tags/monthly-report/</link>
     <description>Recent content in monthly-report on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cocatrip.github.io/tags/monthly-report/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cocatrip.github.io/blog/tags/monthly-report/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monthly Report February</title>
-      <link>https://cocatrip.github.io/posts/monthly-report-february/</link>
+      <link>https://cocatrip.github.io/blog/posts/monthly-report-february/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cocatrip.github.io/posts/monthly-report-february/</guid>
+      <guid>https://cocatrip.github.io/blog/posts/monthly-report-february/</guid>
       <description>my internship monthly-report for february</description>
     </item>
     
     <item>
       <title>Monthly Report March</title>
-      <link>https://cocatrip.github.io/posts/monthly-report-march/</link>
+      <link>https://cocatrip.github.io/blog/posts/monthly-report-march/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cocatrip.github.io/posts/monthly-report-march/</guid>
+      <guid>https://cocatrip.github.io/blog/posts/monthly-report-march/</guid>
       <description>my internship monthly-report for march</description>
     </item>
     
