@@ -1,14 +1,20 @@
 ---
+
 author: Adrianus Vian
-title: Monthly Report March
+title: Monthly Report February
 date: 2022-04-03
-description: my internship monthly-report for march
+description: my internship monthly-report for february
 tags: ["monthly-report"]
 ShowToc: true
-TocOpen: true
----
+TocOpen: false
+cover:
+    image: "https://cocatrip.github.io/blog/bannerBINUS.png"
+    alt: "logoBINUS"
+#caption: "<text>" # display caption under cover
+#relative: false # when using page bundles set this to true
+#hidden: true # only hide on current single page
 
-![image](https://cocatrip.github.io/blog/bannerBINUS.png)
+---
 
 # Pendahuluan
 
