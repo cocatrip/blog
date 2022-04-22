@@ -1,0 +1,67 @@
+baseURL: 'https://cocatrip.github.io/'
+languageCode: 'en-us'
+title: 'Portfolio'
+theme: 'PaperMod'
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  author: cocatrip
+  defaultTheme: dark
+  hideFooter: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  socialIcons: # optional
+  - name: "github"
+    url: "https://github.com/cocatrip"
+  - name: "linkedin"
+    url: "https://www.linkedin.com/in/cocatrip/"
+  # - name: "facebook"
+  #   url: "https://www.facebook.com/adrianus.vian"
+  # - name: "twitter"
+  #   url: "https://twitter.com/cocatrip"
+  # - name: "reddit"
+  #   url: "https://reddit.com/user/cocatrip"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: portfolio
+      name: Portfolio
+      url: /
+      weight: 10
