@@ -8,7 +8,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-![image](https://cocatrip.github.io/logoBINUS.jpg){width="5cm" height="5cm"}
+![image](https://cocatrip.github.io/logoBINUS.jpg)
 
 # Pendahuluan
 
