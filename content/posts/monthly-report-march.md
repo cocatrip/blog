@@ -22,8 +22,6 @@ cover:
 
 ### Informasi Umum
 
-#### 
-
 Adira finance adalah sebuah perusahaan yang bergerak dibidang finansial
 yang melayani beragam pembiayaan seperti kendaraan bermotor baik baru
 ataupun bekas, selain itu Adira juga menyediakan beragam solusi keuangan
@@ -31,8 +29,6 @@ sesuai dengan kebutuhan pelanggan dalam setiap siklus kehidupan
 konsumen.
 
 ### Sejarah
-
-#### 
 
 PT Adira Dinamika Multi Finance Tbk atau Adira Finance didirikan pada
 tahun 1990 dan mulai beroperasi pada tahun 1991. Adira Finance mulai
@@ -45,8 +41,6 @@ bank terbesar di dunia.
 
 ## Posisi dan Peran Mahasiswa
 
-#### 
-
 Posisi dan perusahaan saya adalah DevOps Engineer, yang dikerjakan oleh
 seorang DevOps Engineer adalah men-deploy objek-objek yang dikerjakan
 oleh developer, baik secara otomatis maupun secara manual. Proses yang
@@ -57,8 +51,6 @@ masing-masing.
 # Laporan Kegitan
 
 ## Proses Kegiatan Bisnis
-
-#### 
 
 Pada Adira Finance, menggunakan metode waterfall. Waterfall itu sendiri
 merupakan suatu metode dimana tahapan-tahapannya dikerjakan secara
@@ -117,8 +109,6 @@ Februari ini saya menggunakan system WFO full.
 
 ### Minggu Keempat
 
-#### 
-
 Saya belajar men-deploy aplikasi milik adira menggunakan jenkins,
 docker, dan helm. Saya di pandu oleh kakak MT(Management Trainee) yaitu
 kak yaumil. Di minggu ini saya belajar berbagai macam soal perkenalan
@@ -128,8 +118,6 @@ adira.
 # Penutup
 
 ## Kesimpulan
-
-#### 
 
 Jadi pada bulan ini saya mempelajari dasar dari tools-tools untuk
 mendeploy aplikasi yang beraksitektur microservices
