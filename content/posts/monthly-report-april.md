@@ -22,8 +22,6 @@ cover:
 
 ### Informasi Umum
 
-#### 
-
 Adira finance adalah sebuah perusahaan yang bergerak dibidang finansial
 yang melayani beragam pembiayaan seperti kendaraan bermotor baik baru
 ataupun bekas, selain itu Adira juga menyediakan beragam solusi keuangan
@@ -31,8 +29,6 @@ sesuai dengan kebutuhan pelanggan dalam setiap siklus kehidupan
 konsumen.
 
 ### Sejarah
-
-#### 
 
 PT Adira Dinamika Multi Finance Tbk atau Adira Finance didirikan pada
 tahun 1990 dan mulai beroperasi pada tahun 1991. Adira Finance mulai
@@ -45,8 +41,6 @@ bank terbesar di dunia.
 
 ## Posisi dan Peran Mahasiswa
 
-#### 
-
 Posisi dan perusahaan saya adalah DevOps Engineer, yang dikerjakan oleh
 seorang DevOps Engineer adalah men-deploy objek-objek yang dikerjakan
 oleh developer, baik secara otomatis maupun secara manual. Proses yang
@@ -57,8 +51,6 @@ masing-masing.
 # Laporan Kegitan
 
 ## Proses Kegiatan Bisnis
-
-#### 
 
 Pada Adira Finance, menggunakan metode waterfall. Waterfall itu sendiri
 merupakan suatu metode dimana tahapan-tahapannya dikerjakan secara
@@ -117,16 +109,12 @@ Februari ini saya menggunakan system WFO full.
 
 ### Minggu Pertama
 
-#### 
-
 Pada minggu pertama saya mengerjakan tugas yang diberikan oleh tim yaitu
 nebdeploy objek-objek seperti biasa nya. Lalu kak Sholeh MT (Management
 Trainee) saya mengajak untuk membuat sebuah projek untuk mengautomasi
 proses serta tahap setup deploymentnya menggunakan sebuah script.
 
 ### Minggu Kedua
-
-#### 
 
 Pada minggu kedua akhirnya saya mencoba membuat prototype dari ide
 tersebut dan mencoba membuat script nya. Ternyata setalah melakukan
@@ -135,8 +123,6 @@ dilakukan script nya akan terlalu banyak dan menjadi tidak effisien.
 Oleh karena itu saya membuat sebuah CLI (Command Line Interface).
 
 ### Minggu Ketiga
-
-#### 
 
 Pada minggu ketiga saya lanjut untuk mendevelop prototype yang sudah
 saya buat dan project ini saya putuskan untuk diberi nama \"anchor\".
@@ -147,8 +133,6 @@ Syamsul untuk menyelesaikan project ini smapai ke tahap dimana project
 ini dapat digunakan dalam proses deployment.
 
 ### Minggu Keempat
-
-#### 
 
 Pada minggu keempat saya lanjut mendevelop prototype hingaa siap rilis
 dan dapat digunakan dalam testing environment, tentu saja ini juga
@@ -161,8 +145,6 @@ oleh tim untuk menambahkan beberapa fitur.
 # Penutup
 
 ## Kesimpulan
-
-#### 
 
 Pada bulan ini saya menghabiskan mayoritas waktu saya melakukan
 deployment dan mendevelop project \"anchor\". Project \"anchor\"
